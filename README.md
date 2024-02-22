@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @berkant-yilmaz
-- 👀 I’m interested in learning C# and C+
+- 👀 I’m interested in learning ThreeJs and C#
 - 🌱 I’m currently learning everything i can
 
 <!---
